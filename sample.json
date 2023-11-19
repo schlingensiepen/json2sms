@@ -1,0 +1,38 @@
+[
+    {
+        "number":"015774975349",
+        "message":"Hallo Peter Meier, dies ist eine erste Message.",
+        "display":"Meier, Peter",
+        "delay":8
+    },
+    {
+        "number":"015774975349",
+        "message":"Hallo Peter Meier, dies ist eine zweite Message.",
+        "display":"Meier, Peter",
+        "delay":7
+    },
+    {
+        "number":"015774975349",
+        "message":"Hallo Peter Meier, dies ist eine dritte Message.",
+        "display":"Meier, Peter",
+        "delay":6
+    },
+    {
+        "number":"015456789",
+        "message":"Hallo Max Mustermann, dies ist eine erste Message.",
+        "display":"Mustermann, Max",
+        "delay":7
+    },
+    {
+        "number":"015456789",
+        "message":"Hallo Max Mustermann, dies ist eine zweite Message.",
+        "display":"Mustermann, Max",
+        "delay":9
+    },
+    {
+        "number":"015456789",
+        "message":"Hallo Max Mustermann, dies ist eine dritte Message.",
+        "display":"Mustermann, Max",
+        "delay":11
+    }
+]
